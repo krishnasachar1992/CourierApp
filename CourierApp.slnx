@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CourierApp.Tests/CourierApp.Tests.csproj" Id="6242f5dc-7c3c-425c-9b0f-a55020ff6050" />
+  <Project Path="CourierApp/CourierApp.csproj" />
+</Solution>
